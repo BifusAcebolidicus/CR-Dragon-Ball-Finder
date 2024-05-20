@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BifusAcebolidicus/wawawa/main/Clover%20Retribution%20DB%20Script'))()
