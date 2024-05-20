@@ -577,7 +577,7 @@ local Button22 = TPTab:CreateButton({
    Name = "Parkour 1",
    Callback = function()
                             local teleport_table = {
-        location1 = Vector3.new(646.196044921875, 199.2503662109375, -3809.725341796875)
+        location1 = Vector3.new(620.695068359375, 87.25041198730469, -3748.74169921875)
     }
     
     local tween_s = game:GetService('TweenService')
@@ -683,3 +683,4 @@ local Button25 = TPTab:CreateButton({
 
 
 -- stone guardian cheese -425.7259216308594, -104.49957275390625, 2275.9560546875
+-- parkour update 620.695068359375, 87.25041198730469, -3748.74169921875
