@@ -680,3 +680,6 @@ local Button25 = TPTab:CreateButton({
     bypass_teleport(teleport_table.location1)
    end,
 })
+
+
+-- stone guardian cheese -425.7259216308594, -104.49957275390625, 2275.9560546875
