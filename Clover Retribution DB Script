@@ -224,7 +224,7 @@ local Button3 = TPTab:CreateButton({
    Name = "Desert Cave",
    Callback = function()
                             local teleport_table = {
-        location1 = Vector3.new(-85.34852600097656, -70.74937438964844, 34.436283111572266)
+        location1 = Vector3.new(-62.84342956542969, -110.74960327148438, 254.2366943359375)
     }
     
     local tween_s = game:GetService('TweenService')
